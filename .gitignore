@@ -1,0 +1,7 @@
+# Directories
+temp
+
+#Files
+*.log
+!debug.log
+# ! iniziale segna una eccezione ad una regola (*.log in questo caso)
